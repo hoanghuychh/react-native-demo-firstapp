@@ -1,0 +1,4 @@
+#Fri Mar 20 16:25:27 ICT 2020
+base.0=/home/chh/Documents/DeepCareDocter/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
